@@ -17,4 +17,4 @@ puts "By golly, I believe your name and favorite color to be" + name + color
 puts "Please enter a number:"
 number = gets.chomp
 doubled_number = number.to_i * 2
-puts "The doubled number is " + doubled_number
+puts "The doubled number is " + doubled_number.to_s
