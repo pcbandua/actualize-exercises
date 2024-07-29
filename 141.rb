@@ -12,7 +12,7 @@ pp names                               # 6
 # 3: the 1st item in the array is now equal to "Bob"
 # 4: x is equal to the 2nd array item "Danillo"  
 # 5: the 0th item in the array "Sarron" is equal to x => "Danillo"
-# 6: pretty print the names array as it is now => ["Saron", "Bob", "Danillo"]
+# 6: pretty print the names array as it is now => ["Danillo", "Bob", "Danillo"]
 
 
 # QUESTION 2
