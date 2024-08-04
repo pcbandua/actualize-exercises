@@ -11,5 +11,5 @@ puts person ["email"]
 
 # Were you able to easily solve the problem from memory? Almost, 80% there
 # If so, describe the next skill you will start to practice tomorrow.
-# If not, describe the part you got stuck on that requires more practice. I tried ot wirte it out as an intermediate hash and got stuck. 
+# If not, describe the part you got stuck on that requires more practice. I tried ot wirte it out as an intermediate hash with a symbol and got stuck. 
 
