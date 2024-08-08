@@ -3,10 +3,13 @@
 numbers = [4, 53, 22, 3, 9, 7, 12]
 
 
-#Create a while loop referncing the numbers in the array greater than 10 
-while numbers.each >= 10
- 
-end
+#Create a while loop referencing the numbers in the array greater than 10 
 
-#Add a program to print of numbers
+    if numbers.each > 10
+        puts numbers
+    numbers = numbers + 1
+    end
+
+
+#Add a program to print off numbers if they are greater than 10
 
