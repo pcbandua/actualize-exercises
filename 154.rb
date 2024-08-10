@@ -32,7 +32,7 @@ end
     puts lyrics
 
 
-# QUESTION 2
+    # QUESTION 2
 # The following code has several mistakes that cause it to crash and not run properly.
 # Fix the mistakes to make sure the code runs properly.
 class Person

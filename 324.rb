@@ -12,6 +12,19 @@ numbers = [4, 6, 1, 4, 2, 8, 3, 4, 1, 7]
 
 numbers = [4, 4, 6, 6, 1, 1, 2, 2, 8, 8, 3, 3, 7, 7] #made my own array as couldn't see the arry being referrred to.
 
+#write a loop that prints out all the numbers in the array
+# puts numbers
+
+#Write a loop that prints the word "duplicate" when it finds a number equal to the second number.
+
+# index = 0
+# while index < 20
+#     if numbers[index] = numbers[1]
+#         numbers = numbers [index] + 1
+#         puts "duplicate"
+#     end
+# end
+
 #write a program that recognizes the duplicate integers in the array and removes them
 pp numbers.union(numbers)
 
