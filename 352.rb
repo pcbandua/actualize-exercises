@@ -14,5 +14,5 @@ while index < words.length
     index = index + 1
 end
 
-pp first_letters
+pp first_letters.join
 
