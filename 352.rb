@@ -10,7 +10,7 @@ first_letters = []
 while index < words.length
 
     word = words[index]
-    first_letters = word  #Feel that the issue lies here, because the code prints the string but not the first letter of the first string in the array. 
+    first_letters.push(word[0])  #Feel that the issue lies here, because the code prints the string but not the first letter of the first string in the array.    
     index = index + 1
 end
 
