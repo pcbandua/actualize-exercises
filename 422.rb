@@ -7,11 +7,9 @@ phrase = "She sells seashells by the seashore."
 def tongue_twister(phrase)
 
     number = 12
-
     number.times do
         puts phrase
     end
-   
 end
 
 puts tongue_twister(phrase)
