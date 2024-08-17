@@ -19,7 +19,7 @@ def write_csv(file_path, data)                              # Creates a method w
 end
 
 file_path = 'data.csv'                                      # Assigns the variable file_path to data.csv
-data = [                                                    # Declares the array named data and the hashes within
+data = [                                                    # Declares the array named data and the hashes withins
   { name: 'John Doe', age: 30, city: 'New York' },
   { name: 'Jane Smith', age: 25, city: 'San Francisco' },
   { name: 'Bob Johnson', age: 35, city: 'Chicago' }
