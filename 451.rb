@@ -10,8 +10,8 @@ while index < 10
     pp number 
 end
 
-# Were you able to easily solve the problem from memory?
+# Were you able to easily solve the problem from memory? No
 # If so, describe the next skill you will start to practice tomorrow.
-# If not, describe the part you got stuck on that requires more practice.
+# If not, describe the part you got stuck on that requires more practice.Loops
 
 
