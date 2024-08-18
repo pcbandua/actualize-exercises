@@ -4,13 +4,12 @@
 # Then run the method and print the result.
 
 
-destinations = [indonesia, bhutan, kenya, ghana, canada, uae]
-
-short_destinations = []
+destinations = ["indonesia", "bhutan", "kenya", "ghana", "canada", "uae"]
 
 def less_four(destinations)
-    short_destinations = destinations.select { |n| n <= 4 }
-
+    short_destinations = []
+    short_destinations = destinations.select { |n| n.length <= 4 }
+    pp short_destinations
 end
 
-pp short_destinations
+less_four(destinations)
