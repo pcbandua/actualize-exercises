@@ -1,0 +1,64 @@
+body {
+    
+    color: #202020;  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    margin: 0;
+}
+
+main {
+    max-width: 50em;
+    margin: 0 auto;
+     line-height: 1.5;
+    padding: 4em 1em;
+}
+
+/* h2 {
+    margin-top: 1em;
+    color: #111111;
+    
+} */
+
+h2 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifs
+    font-size: 1.5em; /* Adjust as needed */
+    font-weight: bold;
+    color: transparent; /* We will use background-clip for the gradient text effect */
+    background-image: linear-gradient(90deg, #ff6a00, #ee0979, #ff6a00); /* Gradient effect */
+    background-clip: text;
+    -webkit-background-clip: text; /* For WebKit browsers */
+    text-fill-color: transparent; /* For Safari */
+    text-align: left;
+    letter-spacing: 1px; /* Adds a bit of spacing between letters */
+    padding: 10px 0;
+    margin: 0;
+    line-height: 1.2;
+}
+
+a {
+    color:rgb(128, 0, 255);
+}
+
+header {
+    background-image: url("https://t3.ftcdn.net/jpg/05/98/25/64/360_F_598256407_yPG3nSIp23jd2ulmCsEodtRz9eaTQqL8.webp");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    line-height: 1.2;
+    padding: 10vw 2em;
+    
+}
+
+header h1 {
+color: rgb(0, 0, 0);
+font-size: 2.5em;
+font-weight: 700;
+}
+
+footer {
+    color: #fbfbfb;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #d3d3d3;
+    padding: 3em;
+}
