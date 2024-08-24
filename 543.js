@@ -14,7 +14,7 @@ console.log(array [5]);
 // prints 1 if the number is greater than 10, 
 // and prints 0 if the number is equal to 10.
 
-var ppp = 444
+var ppp = 444;
 
 if (ppp < 10)
 {console.log (-1);}
